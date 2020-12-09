@@ -1,0 +1,9 @@
+/.idea
+/TODO.md
+/NOTES.md
+*~
+*.swp
+*.retry
+.php_cs.cache
+.~lock*
+/salida.*
